@@ -1,0 +1,14 @@
+Variables
+Una variable es la forma de guardar un dato para utilizar mas tarde. Puede actualizarse en cualquier momento siempre y cuando la creemos con VAR.
+
+Strings
+Es una cadena de datos. Siempre va entre comillas. La mayoria de veces se usa para texto, si utilizamos numeros no los entiende como numeros sino como texto.
+
+Funciones (argumentos, return)
+Una funcion es un "proceso" que se va a utilizar muchas veces, para evitar escribirlos repetidas veces se utiliza la funcion y cada vez que se necesite, se repite.
+
+Declaraciones if
+El if sirve para crear condiciones. Si pasa X cosa, respondera alguno, si no pasa, respondera otra cosa.
+
+Valores booleanos (true, false)
+Sirven para saber si una condicion es verdadera o falsa. Si la condicion se cumple es verdadera, de lo contrario, es falsa.
