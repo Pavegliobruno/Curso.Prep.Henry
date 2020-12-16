@@ -1,0 +1,11 @@
+for
+el operador FOR sirve para cuando tenemos que probar muchas veces lo mismo, pero con diferentes variables. Va a probar hasta que encuentre el resultado esperado.
+
+&&
+El operador YY devuelve verdadero cuando ambas expresiones son verdaderas. Si alguna de las 2 es falsa, dara falso. Si ambas son falsas da falso.
+
+||
+El operador O devuelve verdadero cuando una de las 2 expresiones es verdadera. Si ambas son verdadera da verdadero, si ambas son falsas da falso.
+
+!
+El operador negacion niega toda la expresion que le siga. 
