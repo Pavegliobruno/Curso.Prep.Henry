@@ -1,0 +1,16 @@
+Objetos
+Un objeto es un contenedor de datos que sirve para almacenar muchos datos sobre la misma cosa.
+
+Propiedades
+Las propiedades son los nombres de los datos que almacenamos en los objetos. 
+Por ejemplo, si nuevoCliente es el objeto, Nombre y Apellido son propiedades.
+
+Métodos
+Los metodos son funciones guardadas en objetos.
+
+Bucle for…in
+Es como el bucle ya conocido, pero para los objetos. 
+
+Notación de puntos vs notación de corchetes
+Es similar, solo que los corchetes se usan generalmente con variables.
+
