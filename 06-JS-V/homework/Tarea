@@ -1,0 +1,7 @@
+* `prototype`
+Prototipo sirve para ahorrar memoria. Funciona dandole propiedades basicas que despues van a servir como fuia cuando crees un objeto de este tipo.
+Es como si los hijos heredaran propiedades de sus padres.
+
+* _Constructors_ (de Clases)
+Las clases sirven para cuando creamos un objeto, no tener que crearlo mil vecess.
+Sino, que creamos una "plantilla" que vamos a ultizar despues cada ves que querramos crear un objeto.
